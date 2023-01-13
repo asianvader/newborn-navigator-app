@@ -1,0 +1,22 @@
+.home {
+  h1 {
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  p {
+    font-size: 1.2rem;
+    line-height: 2;
+  }
+
+  .btn {
+    margin: 10px;
+  }
+  .img-container {
+    display: flex;
+    align-items: center;
+  }
+  img {
+    margin: auto;
+  }
+}

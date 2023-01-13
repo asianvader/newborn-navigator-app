@@ -1,0 +1,10 @@
+.main-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  .btn {
+    margin: 5px;
+  }
+}
